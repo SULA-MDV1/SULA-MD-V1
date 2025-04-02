@@ -1,10 +1,10 @@
 
 {
-    "bot-name": "BYTE-MD",
+    "bot-name": "SULA-MD",
     "description": "BYTE-MD made for people on Earth",
     "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/refs/heads/main/Images/XByte-logo.png",
-    "keywords": ["bot"],
-    "documentation-link": "https://session.talkdrove.com",
+    "keywords": ["bot","sula","sula-md"],
+    "documentation-link": "https://sula-lpgp.onrender.com",
     "owner-verification":"sulakshamadara68@gmail.com",
   
       "env": {
