@@ -22,6 +22,7 @@
     "mrnima-moviedl":"last",
     "xnxx-dl": "^1.0.2",
     "fs-extra": "^11.1.0",
+    "cheerio": "1.0.0",
     "path": "^0.12.7",
     "node-fetch": "^2.6.1",
     "megajs": "^1.1.0",
